@@ -1,0 +1,13 @@
+Standart Instalasi Codeigniter
+
+1. buat database
+2. import database
+3. pemgaturan 
+   application\config
+   config.php = url_base
+   database.php = sesuaikan database sesuai nama yang di import
+4. import database sesuai nama file di folder database
+5. jalankan aplikasi
+---------------------------------------------------------------
+user : admin
+pass : admin
